@@ -3,7 +3,7 @@
  * Permite consultar el estado de la cuenta y modificar sus atributos.
  * 
  * @author Sergio Ramírez Pla
- * @version 1.1
+ * @version 1.2
  */
 public class CCuenta {
 
